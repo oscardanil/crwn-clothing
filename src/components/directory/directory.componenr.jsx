@@ -28,7 +28,7 @@ class  DirectoryMenu extends React.Component{
                 {
                   title: 'womens',
                   imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
-                  size: '',
+                  size: 'larger',
                   id: 4,
                   linkUrl: 'shop/womens'
                 },
